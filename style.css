@@ -1,0 +1,23 @@
+.box{
+background: white;
+padding: 10px;
+display: inline-block;
+cursor: pointer;
+}
+
+.box:hover{
+    background: lightgray;
+}
+
+.active-box{
+    background: black;
+    color: white;
+}
+
+hr{
+    border: 3px solid rgba(15, 112, 121, 0.96);
+}
+
+.card-img-top:hover{
+    opacity: 0.7;
+}
